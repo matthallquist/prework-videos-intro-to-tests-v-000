@@ -1,3 +1,3 @@
-def ounces_to_grams
+def ounces_to_grams(ounces)
 
 end
